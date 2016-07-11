@@ -1,5 +1,5 @@
 # LawChain
 For the LawChain Project
 
-* http://LawChain.github.io/LawChain
+* http://LawChain.github.io/project
 * http://lawchain.org
